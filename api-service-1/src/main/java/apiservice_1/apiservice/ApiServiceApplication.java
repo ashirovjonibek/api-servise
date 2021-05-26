@@ -1,13 +1,13 @@
-package apiservise2.apiservise2;
+package apiservice_1.apiservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiServise2Application {
+public class ApiServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ApiServise2Application.class, args);
+        SpringApplication.run(ApiServiceApplication.class, args);
     }
 
 }
