@@ -1,0 +1,45 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/
+!/src/test/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+'.idea'
+'*.mvn'
+api-servise-1/.mvn
+api-servise-1/mvnw
+api-servise-1/mvnw.cmd
+api-servise-1/target
+api-servise-1/web
+api-servise-1/api-servise-1.iml
+api-servise-2/.mvn
+api-servise-2/mvnw
+api-servise-2/mvnw.cmd
+api-servise-2/target
+api-servise-2/web
+api-servise-2/api-servise-2.iml
