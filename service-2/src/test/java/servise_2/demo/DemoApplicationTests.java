@@ -1,10 +1,10 @@
-package apiservice2.apiservice2;
+package servise_2.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiService2ApplicationTests {
+class DemoApplicationTests {
 
     @Test
     void contextLoads() {
